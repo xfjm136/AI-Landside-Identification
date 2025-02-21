@@ -1,4 +1,4 @@
-# 滑坡识别模型 / Landslide Identification Model
+# AI滑坡识别 /AI Landslide Identification
 ![Logo](img/Logo.png)
 ## 项目简介 / Project Overview
 
