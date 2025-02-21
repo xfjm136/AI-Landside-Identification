@@ -89,5 +89,3 @@ For any questions or suggestions, please contact us via:
 - 邮箱：[xfjm136@163.com](xfjm136@631.com)
 
 ---
-
-这样，拉取项目的步骤已经加入到部署方法中了，用户只需按照步骤操作即可完成部署。如果有其他需要调整的地方，请随时告诉我！
