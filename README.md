@@ -1,5 +1,5 @@
 # AI滑坡识别项目 /AI Landslide Identification
-![Logo](img/Logo.png)
+![Logo](img/Logo-W.png)
 ## 项目简介 / Project Overview
 
 本项目基于改进的DeepLabV3+模型，旨在实现对震后遥感影像中滑坡区域的自动化精准识别。通过大规模高分辨率数据集训练与优化，结合深度学习架构，该系统能够高效提取复杂地形特征，为地质灾害监测与防治提供科学、可靠的决策支持，助力防灾减灾工作智能化升级。
