@@ -71,7 +71,7 @@ Once the application is running, open your browser and visit [localhost:5000](ht
 
 ## 界面截图 / Interface Screenshots
 
-  ![interface](img/interface.jpg)
+  ![interface](img/UI.jpg)
 _图1：应用界面截图 / Figure 1: Application Interface Screenshot_
 ## 贡献 / Contributing
 
